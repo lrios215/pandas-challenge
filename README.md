@@ -1,7 +1,7 @@
 # pandas-challenge
  GT Data Bootcamp - Pandas HW_Rios
 
- ## PyCitySchools
+## PyCitySchools
 
 City's school district analysis of math and reading testing scores. 
 
