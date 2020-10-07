@@ -3,8 +3,6 @@
 
  ## PyCitySchools
 
-![Education](Images/education.png)
-
 City's school district analysis of testing scores. 
 
 Overall Trends in school performance:
