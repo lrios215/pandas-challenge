@@ -3,14 +3,33 @@
 
  ## PyCitySchools
 
-![Education](Images/education.png)
+City's school district analysis of math and reading testing scores. 
 
-City's school district analysis of testing scores. 
 
+## Overall Trends
 Overall Trends in school performance:
 
+    * DISTRICTWIDE:
+        * On average, students out performed in reading over math. 85.81% passed reading with a score of 
+        70 or higher, while 74.98% passed math with a score of 70 or higher (see District Summary table).
+    * SCHOOL TYPE: 
+        * All charter schools out performed all district schools in both math and reading % passing with a 
+        70 or higher (see Scores by School Type table).  
+    * SCHOOL SIZE:
+        * Top 5 performing schools are all charter schools with less than 2300 students.  Bottom 5 
+        performing schools are all district schools with more than 2300 students.  So small to medium 
+        (<2000) schools out performed larger schools (2000-5000) (see Top and Bottom Performing Schools 
+        Tables).
+    * GRADE LEVEL: 
+        * Students scored similarly in 9th, 10th, 11th, and 12th in both math and reading, grade level 
+        does not appear to impact testing score (see Math and Reading Scores by Grade tables).
+    * PER STUDENT BUDGET:
+        * Spending per student and test scores do not appear to correlate.  
+        * Schools that had a lower per student budget (<$585 per student) had a higher overall passing
+        rate in both math and reading.  Whereas, schools with a higher per student budget ($645-$655) had 
+        a lower overall passing rate in both math and reading (see Scores by School Spending table)
 
-Final Report:
+Final Report: See descriptions and tables.
 
 ### District Summary
 
